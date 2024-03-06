@@ -2,10 +2,7 @@ numpy==1.26.3
 scikit-learn==1.3.2
 streamlit==1.29.0
 streamlit-option-menu==0.3.6
-streamlit==1.22.0
 matplotlib
-numpy==1.23.5
 pandas
-scikit-learn
 tensorflow==2.12.0
 Pillow
